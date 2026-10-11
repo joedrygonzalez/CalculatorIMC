@@ -9,7 +9,7 @@
     <string name="lb">kg</string>
     <string name="age">Edad</string>
     <string name="calculate">Calcular</string>
-    <string name="recalculate">Re-Calcular</string>
+    <string name="recalculate">Recalcular</string>
     <string name="result">Tu resultado:</string>
 
     <string name="error">Error</string>
